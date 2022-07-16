@@ -1,15 +1,15 @@
-Gender,Category,Name,Price,Color,Size
-Herren,Oberteil,Twillhemd,19.99,Dunkelblau/Kariert,Relaxed Fit
-Herren,Oberteil,T-Shirt,7.99,Weiß,Long-Fit
-Herren,Hose,Cargojogger,29.99,Schwarz,Skinny
-Herren,Hose,Tapered Jogger,39.99,Blau,Regular Fit
-Herren,Jacke,Hemdjacke,29.99,Dunkelblau,Regular Fit
-Herren,Jacke,Pilotenjacke,34.99,Schwarz,Regular Fit
-Damen,Oberteil,T-Shirt mit Druck,19.99,Dunkelgrau/Nirvana,Long Fit
-Damen,Oberteil,Neckholder-Top,14.99,Dunkelbeige,Kurz
-Damen,Hose,Elegante Hose,19.99,Schwarz,Regular Fit
-Damen,Hose,High Jeans,10.99,Blau,Super Skinny Fit
-Damen,Jacke,Mantel,41.99,Hellbeige,Long Fit
-Damen,Jacke,Twill Utility Jacke,29.99,Khaki Grün,Regular Fit
-Unisex,Mütze,Beanie-Mütze,26.99,Grün,One Size
-Unisex,Mütze,Mütze in Rippstrick,6.99,Schwarz,One Size
+ID,Gender,Category,Name,Price,Color,Size
+1,Herren,Oberteil,Twillhemd,19.99,Dunkelblau/Kariert,Relaxed Fit
+2,Herren,Oberteil,T-Shirt,7.99,Weiß,Long-Fit
+3,Herren,Hose,Cargojogger,29.99,Schwarz,Skinny
+4,Herren,Hose,Tapered Jogger,39.99,Blau,Regular Fit
+5,Herren,Jacke,Hemdjacke,29.99,Dunkelblau,Regular Fit
+6,Herren,Jacke,Pilotenjacke,34.99,Schwarz,Regular Fit
+7,Damen,Oberteil,T-Shirt mit Druck,19.99,Dunkelgrau/Nirvana,Long Fit
+8,Damen,Oberteil,Neckholder-Top,14.99,Dunkelbeige,Kurz
+9,Damen,Hose,Elegante Hose,19.99,Schwarz,Regular Fit
+10,Damen,Hose,High Jeans,10.99,Blau,Super Skinny Fit
+11,Damen,Jacke,Mantel,41.99,Hellbeige,Long Fit
+12,Damen,Jacke,Twill Utility Jacke,29.99,Khaki Grün,Regular Fit
+13,Unisex,Mütze,Beanie-Mütze,26.99,Grün,One Size
+14,Unisex,Mütze,Mütze in Rippstrick,6.99,Schwarz,One Size
